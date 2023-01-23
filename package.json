@@ -1,0 +1,25 @@
+{
+  "name": "js-core",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx live-server client --host=localhost --port=9150 --no-browser"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BORAVORAYOON/JavaScript-Practice-JS-core.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BORAVORAYOON/JavaScript-Practice-JS-core/issues"
+  },
+  "homepage": "https://github.com/BORAVORAYOON/JavaScript-Practice-JS-core#readme",
+  "devDependencies": {
+    "eslint": "^8.32.0",
+    "live-server": "^1.2.2",
+    "nodemon": "^2.0.20"
+  }
+}
